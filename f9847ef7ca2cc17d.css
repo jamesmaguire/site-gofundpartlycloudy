@@ -1,6 +1,9 @@
 #qr {
   margin-left: 1rem;
 }
+.myicon {
+  height: 50%;
+}
 
 html {
  box-sizing:border-box;
