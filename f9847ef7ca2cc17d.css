@@ -1,3 +1,8 @@
+#qr {
+  border: 1px red solid;
+  float: right;
+}
+
 html {
  box-sizing:border-box;
  font-size:1rem;
