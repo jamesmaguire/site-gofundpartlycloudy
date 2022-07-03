@@ -1,0 +1,454 @@
+.Container_container--story__C1emL,
+.Container_container__kNlDt {
+ height:469px;
+ position:relative;
+ width:375px
+}
+.Container_container--story__C1emL {
+ height:667px
+}
+.InstagramTemplateA_container__V6w4K {
+ -webkit-align-items:center;
+ -ms-flex-align:center;
+ align-items:center;
+ background:#02a95c;
+ border-radius:4px;
+ color:#000;
+ display:-webkit-flex;
+ display:-ms-flexbox;
+ display:flex;
+ -webkit-flex-direction:column;
+ -ms-flex-direction:column;
+ flex-direction:column;
+ -webkit-justify-content:center;
+ -ms-flex-pack:center;
+ justify-content:center
+}
+.InstagramTemplateA_container-content__NHpWk {
+ background-color:#fff;
+ border-radius:12px;
+ margin:27px 34px
+}
+.InstagramTemplateA_container-content__NHpWk h2 {
+ font-size:24px;
+ font-weight:500;
+ line-height:28px
+}
+.InstagramTemplateA_container-content__NHpWk img {
+ height:184px;
+ object-fit:cover;
+ width:307px
+}
+.InstagramTemplateA_container-content--story__xzz_O {
+ margin:0 34px
+}
+.InstagramTemplateA_container-content--story__xzz_O img {
+ height:auto
+}
+.InstagramTemplateA_header__OqGeE {
+ -webkit-align-items:center;
+ -ms-flex-align:center;
+ align-items:center;
+ display:-webkit-flex;
+ display:-ms-flexbox;
+ display:flex;
+ -webkit-flex-direction:row;
+ -ms-flex-direction:row;
+ flex-direction:row;
+ gap:11px;
+ height:32px;
+ -webkit-justify-content:space-around;
+ -ms-flex-pack:distribute;
+ justify-content:space-around;
+ padding-bottom:7px;
+ padding-top:8px
+}
+.InstagramTemplateA_header__OqGeE .InstagramTemplateA_logo__YteIS {
+ height:17px
+}
+.InstagramTemplateA_bottomContent__Dvpe3 {
+ margin:24px 20px
+}
+.InstagramTemplateA_byline__FTASa {
+ font-size:11px;
+ margin-bottom:20px;
+ width:251px
+}
+.InstagramTemplateA_amountRaised__ktIwF {
+ color:#767676;
+ font-size:14px;
+ margin-top:16px
+}
+.InstagramTemplateA_progress-wrapper__gzDPb {
+ width:267px
+}
+.InstagramTemplateA_progress-bar__zqY3Z {
+ background-color:#e6f6ef;
+ border-radius:.125rem;
+ width:100%
+}
+.InstagramTemplateA_progress-bar-fill___rJEv {
+ background-color:#02a95c;
+ border-radius:.125rem;
+ display:block;
+ height:4px;
+ max-width:100%
+}
+.InstagramTemplateB_container__6IBXD {
+ background:#02a95c;
+ border-radius:4px;
+ display:-webkit-flex;
+ display:-ms-flexbox;
+ display:flex;
+ -webkit-flex-direction:column;
+ -ms-flex-direction:column;
+ flex-direction:column
+}
+.InstagramTemplateB_container-content__ltNg1 {
+ margin:0 40px 0 32px
+}
+.InstagramTemplateB_container-content__ltNg1 h2 {
+ color:#fff;
+ font-size:50px;
+ font-weight:500;
+ line-height:50px;
+ margin:43px 0 23px
+}
+.InstagramTemplateB_container-content__ltNg1 p {
+ bottom:75px;
+ color:#e6f6ef;
+ display:block;
+ position:absolute;
+ width:-webkit-calc(100% - 72px);
+ width:calc(100% - 72px)
+}
+.InstagramTemplateB_container-content--story__E_9tS h2 {
+ margin:136px 0 23px
+}
+.InstagramTemplateB_container-content--story__E_9tS p {
+ bottom:40px;
+ position:absolute
+}
+.InstagramTemplateB_greenText__Tsi5S {
+ color:#9addbe
+}
+.InstagramTemplateC_container__5M3bY {
+ border-radius:4px;
+ overflow:hidden
+}
+.InstagramTemplateC_container__5M3bY img {
+ height:100%;
+ object-fit:cover
+}
+.InstagramTemplateD_bubbleType__9mRj8 {
+ bottom:140px;
+ position:relative;
+ text-align:center;
+ z-index:1
+}
+.InstagramTemplateD_bubbleType__9mRj8 :last-child {
+ position:relative;
+ top:.5rem
+}
+.InstagramTemplateD_bubbleType__9mRj8 span {
+ background-color:#fff;
+ border-radius:.25rem;
+ padding:.5rem
+}
+.InstagramTemplateD_title__dqQPU {
+ height:0
+}
+.CampaignAssetSelection_l-campaign-asset-selection-list__MuZxd {
+ -webkit-align-content:center;
+ -ms-flex-line-pack:center;
+ align-content:center;
+ -webkit-align-items:center;
+ -ms-flex-align:center;
+ align-items:center;
+ display:-webkit-flex;
+ display:-ms-flexbox;
+ display:flex;
+ -webkit-flex-direction:column;
+ -ms-flex-direction:column;
+ flex-direction:column;
+ -webkit-flex-wrap:wrap;
+ -ms-flex-wrap:wrap;
+ flex-wrap:wrap;
+ margin-top:24px
+}
+.CampaignAssetSelection_screen-assets__pMac3 {
+ left:9000px;
+ position:absolute
+}
+.CampaignAssetSelection_l-campaign-asset-controls__664Yb {
+ display:-webkit-flex;
+ display:-ms-flexbox;
+ display:flex;
+ -webkit-justify-content:space-between;
+ -ms-flex-pack:justify;
+ justify-content:space-between
+}
+.CampaignAssetSelection_l-campaign-asset-template__VOuGr {
+ background-color:transparent;
+ margin-bottom:.5rem;
+ margin-top:.5rem
+}
+.CampaignAssetSelection_l-campaign-asset-header__AKixi {
+ color:#767676;
+ font-size:1.25rem;
+ font-weight:500;
+ line-height:1.5rem;
+ margin-bottom:.375rem
+}
+.CampaignAssetSelection_l-campaign-asset-subheader__XbO13 {
+ font-size:1.75rem;
+ font-weight:500;
+ line-height:2rem;
+ margin-bottom:2.875rem
+}
+.CampaignAssetSelection_asset-format__HAs_x {
+ background-color:transparent;
+ color:#767676;
+ font-weight:700;
+ margin-right:1.5rem
+}
+.CampaignAssetSelection_selected__WBEil {
+ border-bottom:2px solid #008748;
+ color:#333
+}
+.CampaignAssetSelection_l-template-title__QUvW8 {
+ margin-top:.5rem
+}
+.CampaignAssetSelection_preview__xrDqI {
+ background-color:#e7f0f7;
+ min-height:350px;
+ width:100%
+}
+.m-search-drop-down-prompt {
+ padding-bottom:1rem
+}
+@media print,screen and (min-width:60em) {
+ .m-search-drop-down-prompt {
+  background-color:#fff;
+  border-radius:.25rem;
+  box-shadow:0 6px 14px rgba(0,0,0,.1);
+  left:1rem;
+  padding:2rem 1.5rem 1.5rem;
+  position:absolute;
+  right:1rem;
+  -webkit-transform:translateY(1.5rem);
+  transform:translateY(1.5rem)
+ }
+}
+.m-search-drop-down-hit-container,
+.m-search-drop-down-query-suggest-link {
+ margin-left:-.5rem;
+ margin-right:-.5rem
+}
+.m-search-drop-down-see-all-link.m-search-drop-down-see-all-link {
+ color:#333;
+ text-decoration:underline
+}
+.m-search-drop-down-see-all-link-rule {
+ margin-bottom:1.5rem
+}
+@media print,screen and (min-width:60em) {
+ .m-search-drop-down-see-all-link-rule {
+  margin-bottom:1rem;
+  margin-top:1.5rem
+ }
+}
+.o-global-search-label {
+ -webkit-align-items:center;
+ -ms-flex-align:center;
+ align-items:center;
+ display:-webkit-flex;
+ display:-ms-flexbox;
+ display:flex;
+ font-weight:900
+}
+@media screen and (max-width:59.99875em) {
+ .o-global-search-label {
+  margin-top:.25rem
+ }
+}
+.o-global-search-inner {
+ -webkit-align-items:center;
+ -ms-flex-align:center;
+ align-items:center;
+ display:-webkit-flex;
+ display:-ms-flexbox;
+ display:flex
+}
+.o-global-search-input {
+ -webkit-appearance:none;
+ -moz-appearance:none;
+ appearance:none;
+ color:#767676;
+ display:block;
+ outline:none;
+ padding-bottom:1rem;
+ padding-top:.5rem;
+ width:100%
+}
+.o-global-search-input::-webkit-search-cancel-button {
+ display:none
+}
+.o-global-search-input.o-global-search-input {
+ border:none;
+ border-radius:0
+}
+.o-global-search-clear-button {
+ margin-right:-.75rem
+}
+@media print,screen and (min-width:60em) {
+ .o-global-search-clear-button {
+  margin-right:-1rem
+ }
+}
+.o-global-search.o-drawer .o-drawer-header {
+ -webkit-align-items:center;
+ -ms-flex-align:center;
+ align-items:center;
+ display:-webkit-flex;
+ display:-ms-flexbox;
+ display:flex;
+ padding-top:.5rem
+}
+.o-global-search.o-drawer .o-drawer-header-content {
+ padding:0
+}
+.o-global-search.o-drawer .o-drawer-content {
+ padding-bottom:0;
+ padding-top:0
+}
+.InstagramShareButton_m-instagram-new-tag__orpog {
+ margin-left:1rem
+}
+.CampaignInstagramAssetShare_l-campaign-instagram__ty9yX {
+ -webkit-align-items:center;
+ -ms-flex-align:center;
+ align-items:center;
+ display:-webkit-flex;
+ display:-ms-flexbox;
+ display:flex;
+ -webkit-flex-direction:column;
+ -ms-flex-direction:column;
+ flex-direction:column
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-success-toast__OHjD7 {
+ -webkit-align-items:center;
+ -ms-flex-align:center;
+ align-items:center;
+ background:#e6f6ef;
+ border-radius:30px;
+ display:-webkit-flex;
+ display:-ms-flexbox;
+ display:flex;
+ -webkit-flex-direction:row;
+ -ms-flex-direction:row;
+ flex-direction:row;
+ gap:10px;
+ padding:.5rem 1rem;
+ position:absolute;
+ right:.5rem;
+ top:.5rem
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-success-toast-checkmark__WIHxv {
+ color:#02a95c!important
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-copyfield__vLUxh {
+ border:1px solid #e4e4e4;
+ border-radius:.5rem;
+ margin-bottom:1rem;
+ overflow-x:hidden;
+ overflow-y:hidden;
+ padding:1rem;
+ position:relative;
+ white-space:nowrap;
+ width:100%
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-shorturl__do_Mb {
+ background:-webkit-gradient(linear,left top,right top,color-stop(5.21%,#767676),to(hsla(0,0%,46%,0)));
+ background:linear-gradient(90deg,#767676 5.21%,hsla(0,0%,46%,0));
+ -webkit-background-clip:text;
+ background-clip:text;
+ margin-bottom:0;
+ -webkit-text-fill-color:transparent
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-reminder__XatW5 {
+ font-size:20px;
+ font-weight:700;
+ margin-bottom:1.5rem;
+ text-align:center
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-share-button__apiMi {
+ position:-webkit-sticky;
+ position:sticky;
+ -webkit-transform:translateY(0);
+ transform:translateY(0)
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-link-sticker__MfY1H {
+ -webkit-align-items:center;
+ -ms-flex-align:center;
+ align-items:center;
+ background-color:#fff;
+ border-radius:12px;
+ bottom:-36px;
+ box-shadow:0 2px 6px rgba(0,0,0,.1);
+ display:-webkit-flex;
+ display:-ms-flexbox;
+ display:flex;
+ -webkit-flex-direction:row;
+ -ms-flex-direction:row;
+ flex-direction:row;
+ font-size:14px;
+ gap:.5rem;
+ left:145px;
+ margin-bottom:1.5rem;
+ max-width:190px;
+ padding:10px 12px;
+ position:absolute;
+ text-transform:uppercase;
+ -webkit-transform:rotate(-10deg);
+ transform:rotate(-10deg)
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-link-sticker__feed___PpgO {
+ display:none
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-curly-arrow__fHHoD {
+ bottom:-36px;
+ position:absolute;
+ right:-40px;
+ -webkit-transform:rotate(10deg);
+ transform:rotate(10deg)
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-curly-arrow__feed__6Mqjr {
+ display:none
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-preview-wrapper__9M7iW {
+ margin-bottom:50px;
+ position:relative;
+ width:100%
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-preview-wrapper__feed__HqhGM {
+ margin-bottom:45px
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-preview__TKlPf {
+ background-color:#e7f0f7;
+ height:310px;
+ margin-left:auto;
+ margin-right:auto;
+ width:174.75px
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-preview__feed__5_JLX {
+ height:304px;
+ width:243px
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-preview__loader___Nu4u {
+ height:100%
+}
+.CampaignInstagramAssetShare_l-campaign-instagram-secret__ww3l1 {
+ left:100000px;
+ position:absolute
+}
